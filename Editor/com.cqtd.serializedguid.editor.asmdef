@@ -1,0 +1,17 @@
+{
+    "name": "com.cqtd.serializedguid.editor",
+    "references": [
+        "GUID:f3c31b98cc9fcdc4e9638223e864ea54"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
